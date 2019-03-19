@@ -1,0 +1,17 @@
+h1{
+  color: red;
+  text-decoration: underline;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+  list-style-type: none;
+  color: orange;
+  font-style: oblique;
+}
+
+#epicodus{
+  line-height: 20px;
+  font-weight: bold;
+}
